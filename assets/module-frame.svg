@@ -1,0 +1,6 @@
+<svg width="1700" height="76" viewBox="0 0 1700 76" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="1698" height="74" rx="8" fill="#0D1117" stroke="#4A1111" stroke-width="2"/>
+  <path d="M0 38H640L675 12H1025L1060 38H1700" stroke="#FF3131" stroke-width="2" fill="none"/>
+  <path d="M0 38H640L675 64H1025L1060 38H1700" stroke="#4A1111" stroke-width="1.5" fill="none"/>
+  <text x="850" y="46" text-anchor="middle" fill="#F0F3F6" font-size="22" font-weight="700" font-family="monospace">HXWKXNN MODULE</text>
+</svg>

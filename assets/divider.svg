@@ -1,6 +1,6 @@
-<svg width="1600" height="42" viewBox="0 0 1600 42" xmlns="http://www.w3.org/2000/svg">
-  <line x1="0" y1="21" x2="670" y2="21" stroke="#4A1111" stroke-width="2"/>
-  <path d="M690 21L715 5H885L910 21L885 37H715L690 21Z" fill="#0D1117" stroke="#FF3131" stroke-width="2"/>
-  <text x="800" y="26" text-anchor="middle" fill="#FF3131" font-size="14" font-family="monospace">HXWKXNN SYSTEM</text>
-  <line x1="930" y1="21" x2="1600" y2="21" stroke="#4A1111" stroke-width="2"/>
+<svg width="1700" height="44" viewBox="0 0 1700 44" xmlns="http://www.w3.org/2000/svg">
+  <line x1="0" y1="22" x2="710" y2="22" stroke="#541313" stroke-width="2"/>
+  <path d="M730 22L754 6H946L970 22L946 38H754L730 22Z" fill="#0D1117" stroke="#FF3131" stroke-width="2"/>
+  <text x="850" y="27" text-anchor="middle" fill="#FF3131" font-size="14" font-family="monospace">HXWKXNN // SYSTEM</text>
+  <line x1="990" y1="22" x2="1700" y2="22" stroke="#541313" stroke-width="2"/>
 </svg>
