@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/hxwkxnn-banner.png" alt="HXWKXNN cyberpunk banner" width="100%"/>
+<img src="./assets/hxwkxnn-banner-final.png" alt="HXWKXNN cyberpunk banner" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF3131&center=true&vCenter=true&width=850&lines=Cybersecurity+Student;Blue+Team+Enthusiast;Software+Developer;Automation+Builder;Founder+of+HXWKXNN+Tech" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF3131&center=true&vCenter=true&width=900&lines=Founder+of+HXWKXNN+Tech;Cybersecurity+Student;Blue+Team+Enthusiast;Software+Developer;Automation+Builder" alt="Typing SVG"/>
 
 <br>
 
@@ -18,25 +18,26 @@
 <img src="./assets/divider.svg" alt="" width="100%"/>
 
 ```console
-felipe@hxwkxnn:~$ sudo boot profile
+felipe@hxwkxnn:~$ sudo systemctl start profile.service
 
 [sudo] password for visitor: ********
 
-Authentication successful.
+Starting HXWKXNN profile service...
 
-Initializing HXWKXNN Tech...
-
-[ OK ] Identity module
-[ OK ] Projects module
-[ OK ] Technology stack
-[ OK ] GitHub telemetry
-[ OK ] Roadmap
-[ OK ] Contact layer
+[  OK  ] Loaded identity module
+[  OK  ] Loaded featured projects
+[  OK  ] Loaded technology stack
+[  OK  ] Connected GitHub telemetry
+[  OK  ] Loaded roadmap
+[  OK  ] Connected contact layer
 
 ██████████████████████████████ 100%
 
-System ready.
+hxwkxnn-profile.service is active (running)
+System online.
 ```
+
+<img src="./assets/module-frame.svg" alt="HXWKXNN module" width="100%"/>
 
 <div align="center">
 
@@ -46,18 +47,18 @@ System ready.
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
 ### About me
 
-I'm a **Cybersecurity student and developer** focused on building practical tools, secure digital solutions and reliable automations.
+I'm a **Cybersecurity student and developer** focused on practical tools, secure digital solutions and reliable automation.
 
 My main interests are **Blue Team operations, Python development, Discord bots, Windows utilities, system optimization and web development**.
 
-I am currently expanding the **HXWKXNN Tech** ecosystem through software, professional services and community projects.
+I am building the **HXWKXNN Tech** ecosystem through software, professional services and community projects.
 
 </td>
-<td width="40%" valign="top">
+<td width="42%" valign="top">
 
 ### Quick telemetry
 
@@ -77,13 +78,15 @@ STATUS...... ONLINE
 
 ### Current operations
 
-| Operation | Status |
-|---|---|
-| HX Support development | `ACTIVE` |
-| HX System Manager expansion | `IN PROGRESS` |
-| Blue Team studies | `ACTIVE` |
-| Automation and optimization tools | `BUILDING` |
-| HXWKXNN Tech ecosystem | `EXPANDING` |
+<table>
+<tr>
+<td width="20%" align="center"><b>HX Support</b><br><code>ACTIVE</code></td>
+<td width="20%" align="center"><b>HX System Manager</b><br><code>BUILDING</code></td>
+<td width="20%" align="center"><b>Blue Team</b><br><code>STUDYING</code></td>
+<td width="20%" align="center"><b>Automation</b><br><code>DEVELOPING</code></td>
+<td width="20%" align="center"><b>Portfolio</b><br><code>EXPANDING</code></td>
+</tr>
+</table>
 
 <img src="./assets/divider.svg" alt="" width="100%"/>
 
@@ -103,6 +106,8 @@ STATUS...... ONLINE
 
 Support, moderation, logging and community automation with persistent data and operational telemetry.
 
+**Stack**
+
 `Python` `discord.py` `SQLite`
 
 ![Status](https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPMENT-FF3131?style=flat-square)
@@ -114,7 +119,9 @@ Support, moderation, logging and community automation with persistent data and o
 
 **Windows optimization and privacy suite**
 
-System diagnostics, privacy controls, performance tuning and security-focused Windows management.
+Diagnostics, privacy controls, performance tuning and security-focused Windows management.
+
+**Stack**
 
 `C#` `.NET` `Windows`
 
@@ -122,6 +129,7 @@ System diagnostics, privacy controls, performance tuning and security-focused Wi
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -129,7 +137,9 @@ System diagnostics, privacy controls, performance tuning and security-focused Wi
 
 **Official platform and professional portfolio**
 
-Technology services, project showcase, multilingual experience and brand ecosystem.
+Technology services, projects, multilingual experience and brand ecosystem.
+
+**Stack**
 
 `HTML` `CSS` `JavaScript` `Cloudflare`
 
@@ -143,6 +153,8 @@ Technology services, project showcase, multilingual experience and brand ecosyst
 **Windows diagnostics and optimization toolkit**
 
 Cleanup routines, network tuning, diagnostics, recovery options and gamer-focused optimization.
+
+**Stack**
 
 `Batch` `PowerShell` `Windows Tools`
 
@@ -216,24 +228,21 @@ Cleanup routines, network tuning, diagnostics, recovery options and gamer-focuse
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top" align="center">
-
 ### 🔥 Contribution streak
+
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=HXWKXNN&theme=dark&hide_border=true&background=0D1117&ring=FF3131&fire=FF3131&currStreakLabel=FF3131&sideLabels=FFFFFF&dates=8B949E" alt="HXWKXNN contribution streak"/>
 
-</td>
-<td width="50%" valign="top" align="center">
+</div>
 
 ### 📈 Activity graph
 
+<div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HXWKXNN&bg_color=0D1117&color=FFFFFF&line=FF3131&point=FFFFFF&area=true&area_color=FF3131&hide_border=true" alt="HXWKXNN activity graph"/>
 
-</td>
-</tr>
-</table>
+</div>
 
 ### 🐍 Contribution snake
 
@@ -301,14 +310,15 @@ HXWKXNN TECH PROGRESS
 
 <img src="./assets/divider.svg" alt="" width="100%"/>
 
-```text
-SYSTEM STATUS ............ ONLINE
-MISSION .................. BUILD • SECURE • IMPROVE
-PRIMARY FOCUS ............ CYBERSECURITY
-OPERATION MODE ........... PRECISION
-BRAND .................... HXWKXNN TECH
-VERSION .................. PROFILE V5.0
-```
+<table>
+<tr>
+<td width="20%" align="center"><b>SYSTEM</b><br><code>ONLINE</code></td>
+<td width="20%" align="center"><b>NETWORK</b><br><code>CONNECTED</code></td>
+<td width="20%" align="center"><b>MISSION</b><br><code>BUILD • SECURE</code></td>
+<td width="20%" align="center"><b>MODE</b><br><code>PRECISION</code></td>
+<td width="20%" align="center"><b>VERSION</b><br><code>FINAL</code></td>
+</tr>
+</table>
 
 <div align="center">
 
