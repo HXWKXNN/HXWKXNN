@@ -1,0 +1,6 @@
+<svg width="1600" height="38" viewBox="0 0 1600 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <line x1="0" y1="19" x2="680" y2="19" stroke="#4A1111" stroke-width="2"/>
+  <path d="M700 19L720 5H880L900 19L880 33H720L700 19Z" stroke="#FF3131" stroke-width="2" fill="#0D1117"/>
+  <text x="800" y="24" text-anchor="middle" fill="#FF3131" font-size="14" font-family="monospace">HXWKXNN SYSTEM</text>
+  <line x1="920" y1="19" x2="1600" y2="19" stroke="#4A1111" stroke-width="2"/>
+</svg>
