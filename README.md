@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hxwkxnn-banner-final.png" alt="HXWKXNN cyberpunk banner" width="100%"/>
+<img src="./assets/banner.png" alt="HXWKXNN cyberpunk banner" width="100%"/>
 
 <br>
 
