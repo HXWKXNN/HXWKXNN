@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="HXWKXNN banner" width="100%"/>
+<img src="./assets/hxwkxnn-banner.png" alt="HXWKXNN cyberpunk banner" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=FF3131&center=true&vCenter=true&width=850&lines=Cybersecurity+Student;Blue+Team+Enthusiast;Software+Developer;Automation+Builder;Founder+of+HXWKXNN+Tech" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF3131&center=true&vCenter=true&width=850&lines=Cybersecurity+Student;Blue+Team+Enthusiast;Software+Developer;Automation+Builder;Founder+of+HXWKXNN+Tech" alt="Typing SVG"/>
 
 <br>
 
-[![Website](https://img.shields.io/badge/hxwkxnn.dev-0D1117?style=for-the-badge&logo=googlechrome&logoColor=FF3131)](https://hxwkxnn.dev)
-[![Instagram](https://img.shields.io/badge/@hxwkxnn.tech-0D1117?style=for-the-badge&logo=instagram&logoColor=FF3131)](https://instagram.com/hxwkxnn.tech)
-[![Discord](https://img.shields.io/badge/HXWKXNN_Community-0D1117?style=for-the-badge&logo=discord&logoColor=FF3131)](https://discord.gg/64NehtJ9Jx)
+[![Website](https://img.shields.io/badge/HXWKXNN.DEV-0D1117?style=for-the-badge&logo=googlechrome&logoColor=FF3131)](https://hxwkxnn.dev)
+[![Instagram](https://img.shields.io/badge/@HXWKXNN.TECH-0D1117?style=for-the-badge&logo=instagram&logoColor=FF3131)](https://instagram.com/hxwkxnn.tech)
+[![Discord](https://img.shields.io/badge/HXWKXNN_COMMUNITY-0D1117?style=for-the-badge&logo=discord&logoColor=FF3131)](https://discord.gg/64NehtJ9Jx)
 [![Profile Views](https://komarev.com/ghpvc/?username=HXWKXNN&label=PROFILE+VIEWS&style=for-the-badge&color=ff3131)](https://github.com/HXWKXNN)
 
 </div>
@@ -46,7 +46,7 @@ System ready.
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="60%" valign="top">
 
 ### About me
 
@@ -57,7 +57,7 @@ My main interests are **Blue Team operations, Python development, Discord bots, 
 I am currently expanding the **HXWKXNN Tech** ecosystem through software, professional services and community projects.
 
 </td>
-<td width="42%" valign="top">
+<td width="40%" valign="top">
 
 ### Quick telemetry
 
@@ -77,11 +77,13 @@ STATUS...... ONLINE
 
 ### Current operations
 
-- Developing **HX Support**
-- Expanding **HX System Manager**
-- Studying **Blue Team operations and cybersecurity**
-- Building utilities for **automation, optimization and security**
-- Improving the **HXWKXNN Tech** platform and portfolio
+| Operation | Status |
+|---|---|
+| HX Support development | `ACTIVE` |
+| HX System Manager expansion | `IN PROGRESS` |
+| Blue Team studies | `ACTIVE` |
+| Automation and optimization tools | `BUILDING` |
+| HXWKXNN Tech ecosystem | `EXPANDING` |
 
 <img src="./assets/divider.svg" alt="" width="100%"/>
 
@@ -97,17 +99,9 @@ STATUS...... ONLINE
 
 ### 🛡️ HX Support
 
-Discord bot focused on support, moderation, logging and community automation.
+**Discord support and automation system**
 
-**Core modules**
-
-- Member and voice logs
-- Moderation events
-- Service commands
-- SQLite persistence
-- Community automation
-
-**Stack**
+Support, moderation, logging and community automation with persistent data and operational telemetry.
 
 `Python` `discord.py` `SQLite`
 
@@ -118,17 +112,9 @@ Discord bot focused on support, moderation, logging and community automation.
 
 ### ⚙️ HX System Manager
 
-Desktop utility focused on Windows optimization, privacy and system management.
+**Windows optimization and privacy suite**
 
-**Core modules**
-
-- System diagnostics
-- Privacy controls
-- Performance options
-- Windows management
-- Security-focused utilities
-
-**Stack**
+System diagnostics, privacy controls, performance tuning and security-focused Windows management.
 
 `C#` `.NET` `Windows`
 
@@ -136,23 +122,14 @@ Desktop utility focused on Windows optimization, privacy and system management.
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
 ### 🌐 HXWKXNN Tech
 
-Official website, professional portfolio and technology services platform.
+**Official platform and professional portfolio**
 
-**Core modules**
-
-- Service plans
-- Professional portfolio
-- Multilingual interface
-- Brand ecosystem
-- Cloudflare infrastructure
-
-**Stack**
+Technology services, project showcase, multilingual experience and brand ecosystem.
 
 `HTML` `CSS` `JavaScript` `Cloudflare`
 
@@ -163,17 +140,9 @@ Official website, professional portfolio and technology services platform.
 
 ### 🚀 PC Optimizer
 
-Professional toolkit for Windows maintenance, diagnostics and performance optimization.
+**Windows diagnostics and optimization toolkit**
 
-**Core modules**
-
-- Cleanup routines
-- Network optimization
-- System diagnostics
-- Gamer-focused tuning
-- Recovery and safety options
-
-**Stack**
+Cleanup routines, network tuning, diagnostics, recovery options and gamer-focused optimization.
 
 `Batch` `PowerShell` `Windows Tools`
 
@@ -191,36 +160,53 @@ Professional toolkit for Windows maintenance, diagnostics and performance optimi
 
 </div>
 
+<table>
+<tr>
+<td width="25%" valign="top">
+
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FF3131)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FF3131)
-![C%23](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=FF3131)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=FF3131)
-![Rust](https://img.shields.io/badge/Rust-0D1117?style=for-the-badge&logo=rust&logoColor=FF3131)
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=FF3131)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=FF3131)
+![C%23](https://img.shields.io/badge/C%23-0D1117?style=flat-square&logo=csharp&logoColor=FF3131)
+![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=FF3131)
+![Rust](https://img.shields.io/badge/Rust-0D1117?style=flat-square&logo=rust&logoColor=FF3131)
 
-### Web & application development
+</td>
+<td width="25%" valign="top">
 
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=FF3131)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=FF3131)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=FF3131)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=FF3131)
-![.NET](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=FF3131)
+### Development
 
-### Cybersecurity & systems
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=FF3131)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=FF3131)
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=FF3131)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=FF3131)
+![.NET](https://img.shields.io/badge/.NET-0D1117?style=flat-square&logo=dotnet&logoColor=FF3131)
 
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FF3131)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=FF3131)
-![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows11&logoColor=FF3131)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=FF3131)
+</td>
+<td width="25%" valign="top">
 
-### Tools & platforms
+### Security & systems
 
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=FF3131)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FF3131)
-![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=FF3131)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-0D1117?style=for-the-badge&logo=cloudflare&logoColor=FF3131)
-![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=FF3131)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FF3131)
+![Kali](https://img.shields.io/badge/Kali_Linux-0D1117?style=flat-square&logo=kalilinux&logoColor=FF3131)
+![Windows](https://img.shields.io/badge/Windows-0D1117?style=flat-square&logo=windows11&logoColor=FF3131)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=FF3131)
+
+</td>
+<td width="25%" valign="top">
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=FF3131)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=FF3131)
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=FF3131)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0D1117?style=flat-square&logo=cloudflare&logoColor=FF3131)
+![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=FF3131)
+
+</td>
+</tr>
+</table>
 
 <img src="./assets/divider.svg" alt="" width="100%"/>
 
@@ -230,21 +216,24 @@ Professional toolkit for Windows maintenance, diagnostics and performance optimi
 
 </div>
 
-### 🔥 Contribution streak
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
 
-<div align="center">
+### 🔥 Contribution streak
 
 <img src="https://streak-stats.demolab.com?user=HXWKXNN&theme=dark&hide_border=true&background=0D1117&ring=FF3131&fire=FF3131&currStreakLabel=FF3131&sideLabels=FFFFFF&dates=8B949E" alt="HXWKXNN contribution streak"/>
 
-</div>
+</td>
+<td width="50%" valign="top" align="center">
 
 ### 📈 Activity graph
 
-<div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HXWKXNN&bg_color=0D1117&color=FFFFFF&line=FF3131&point=FFFFFF&area=true&area_color=FF3131&hide_border=true" alt="HXWKXNN activity graph"/>
 
-</div>
+</td>
+</tr>
+</table>
 
 ### 🐍 Contribution snake
 
@@ -267,8 +256,6 @@ Professional toolkit for Windows maintenance, diagnostics and performance optimi
 </div>
 
 ```text
-ACTIVE OBJECTIVES
-
 [01] Expand HX Support
 [02] Develop HX System Manager
 [03] Build Blue Team utilities
@@ -306,9 +293,9 @@ HXWKXNN TECH PROGRESS
 
 ## `MODULE 07 — CONNECT`
 
-[![Website](https://img.shields.io/badge/WEBSITE-hxwkxnn.dev-FF3131?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hxwkxnn.dev)
+[![Website](https://img.shields.io/badge/WEBSITE-HXWKXNN.DEV-FF3131?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hxwkxnn.dev)
 [![Discord](https://img.shields.io/badge/DISCORD-HXWKXNN_COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/64NehtJ9Jx)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-@hxwkxnn.tech-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hxwkxnn.tech)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-@HXWKXNN.TECH-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hxwkxnn.tech)
 
 </div>
 
@@ -320,7 +307,7 @@ MISSION .................. BUILD • SECURE • IMPROVE
 PRIMARY FOCUS ............ CYBERSECURITY
 OPERATION MODE ........... PRECISION
 BRAND .................... HXWKXNN TECH
-VERSION .................. PROFILE V4.0
+VERSION .................. PROFILE V5.0
 ```
 
 <div align="center">
