@@ -232,7 +232,7 @@ Cleanup routines, network tuning, diagnostics, recovery options and gamer-focuse
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=HXWKXNN&theme=dark&hide_border=true&background=0D1117&ring=FF3131&fire=FF3131&currStreakLabel=FF3131&sideLabels=FFFFFF&dates=8B949E" alt="HXWKXNN contribution streak"/>
+<img src="./assets/streak.svg" alt="HXWKXNN contribution streak"/>
 
 </div>
 
